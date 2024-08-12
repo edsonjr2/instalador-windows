@@ -27,5 +27,5 @@ Para executar o script, você precisará ter o Python 3.x instalado em seu siste
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/instalador-windows.git
+   git clone https://github.com/edsonjr2/instalador-windows.git
    cd instalador-windows
