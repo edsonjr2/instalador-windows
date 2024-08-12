@@ -51,7 +51,7 @@ Para começar a usar o Instalador de Aplicativos para Windows, siga os passos ab
 
 4. Execute o script:
    ```bash
-   python instalador.py
+   python aplicativo.py
    ```
 
 ---
