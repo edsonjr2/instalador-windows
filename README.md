@@ -1,29 +1,64 @@
-Instalador de Aplicativos para Windows 🚀
 
-Este projeto é um script em Python projetado para simplificar a instalação de diversos aplicativos populares no Windows. Com um menu interativo, o usuário pode escolher facilmente o software desejado, e o script cuidará do download e da instalação de forma automática.
 
-Funcionalidades 🛠️
+---
 
-Este instalador suporta a instalação dos seguintes aplicativos:
+# Instalador de Aplicativos para Windows 🖥️
 
-AnyDesk
-Google Chrome
-Mozilla Firefox
-Zoom
-VLC Media Player
-Microsoft Office (versão online)
-Visual Studio Code
-Discord
-WinRAR
-Notepad++
-Dropbox
-Adobe Creative Cloud (versão de avaliação)
-Requisitos 📋
-Para executar o script, você precisará ter o Python 3.x instalado em seu sistema, além das bibliotecas Python listadas no arquivo requirements.txt.
+Bem-vindo ao **Instalador de Aplicativos para Windows**! Este script em Python foi criado para simplificar a instalação de uma série de aplicativos populares no seu sistema Windows, economizando tempo e esforço.
 
-## Instalação
+## 🚀 Funcionalidades
 
-1. Clone este repositório:
+Este instalador interativo permite que você escolha e instale automaticamente os seguintes aplicativos:
+
+- **AnyDesk** – Controle remoto para computadores
+- **Google Chrome** – Navegador web
+- **Mozilla Firefox** – Navegador web
+- **Zoom** – Plataforma de videoconferências
+- **VLC Media Player** – Reprodutor de mídia
+- **Microsoft Office** (versão online) – Pacote de produtividade
+- **Visual Studio Code** – Editor de código-fonte
+- **Discord** – Plataforma de comunicação
+- **WinRAR** – Compactador de arquivos
+- **Notepad++** – Editor de texto avançado
+- **Dropbox** – Armazenamento em nuvem
+- **Adobe Creative Cloud** (versão de avaliação) – Pacote de aplicativos de design
+
+## 🛠️ Requisitos
+
+Antes de começar, certifique-se de que você tem:
+
+- **Python 3.x** instalado no seu sistema.
+- As bibliotecas Python necessárias, que estão listadas no arquivo `requirements.txt`.
+
+## ⚙️ Instalação
+
+Para começar a usar o Instalador de Aplicativos para Windows, siga os passos abaixo:
+
+1. Clone este repositório em sua máquina local:
    ```bash
    git clone https://github.com/edsonjr2/instalador-windows.git
+   ```
+
+2. Navegue até o diretório do projeto:
+   ```bash
    cd instalador-windows
+   ```
+
+3. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Execute o script:
+   ```bash
+   python instalador.py
+   ```
+
+---
+
+## 🎯 Sobre o Projeto
+
+Este projeto foi desenvolvido para usuários que desejam instalar rapidamente aplicativos essenciais em um novo sistema Windows, ou após uma formatação. Simples e direto ao ponto, o script automatiza todo o processo, permitindo que você configure seu ambiente de trabalho sem complicações.
+
+---
+
