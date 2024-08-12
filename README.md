@@ -1,27 +1,23 @@
-# Instalador de Aplicativos para Windows
+Instalador de Aplicativos para Windows 🚀
+Este projeto é um script em Python projetado para simplificar a instalação de diversos aplicativos populares no Windows. Com um menu interativo, o usuário pode escolher facilmente o software desejado, e o script cuidará do download e da instalação de forma automática.
 
-Este projeto é um script em Python que facilita a instalação de diversos aplicativos populares no Windows. O script apresenta um menu interativo onde o usuário pode escolher o aplicativo que deseja instalar, e o script faz o download e a instalação automaticamente.
+Funcionalidades 🛠️
+Este instalador suporta a instalação dos seguintes aplicativos:
 
-## Funcionalidades
-
-O script permite a instalação dos seguintes aplicativos:
-
-1. AnyDesk
-2. Google Chrome
-3. Mozilla Firefox
-4. Zoom
-5. VLC Media Player
-6. Microsoft Office (versão online)
-7. Visual Studio Code
-8. Discord
-9. WinRAR
-10. Notepad++
-11. Dropbox
-12. Adobe Creative Cloud (versão de avaliação)
-
-## Requisitos
-
-Para executar o script, você precisará ter o Python 3.x instalado em seu sistema, bem como algumas bibliotecas Python que são especificadas no arquivo `requirements.txt`.
+AnyDesk
+Google Chrome
+Mozilla Firefox
+Zoom
+VLC Media Player
+Microsoft Office (versão online)
+Visual Studio Code
+Discord
+WinRAR
+Notepad++
+Dropbox
+Adobe Creative Cloud (versão de avaliação)
+Requisitos 📋
+Para executar o script, você precisará ter o Python 3.x instalado em seu sistema, além das bibliotecas Python listadas no arquivo requirements.txt.
 
 ## Instalação
 
