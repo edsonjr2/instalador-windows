@@ -1,7 +1,9 @@
 Instalador de Aplicativos para Windows 🚀
+
 Este projeto é um script em Python projetado para simplificar a instalação de diversos aplicativos populares no Windows. Com um menu interativo, o usuário pode escolher facilmente o software desejado, e o script cuidará do download e da instalação de forma automática.
 
 Funcionalidades 🛠️
+
 Este instalador suporta a instalação dos seguintes aplicativos:
 
 AnyDesk
